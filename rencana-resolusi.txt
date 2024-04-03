@@ -6,6 +6,7 @@ Rencana Resolusi saya di tahin 2024
 - Membuat kelas kursus
    * Kursus komputer
       ^ Komponen komputer
+      ^ Merakit Komputer
    * Kursus Pemrograman
 - Menjadi Dosen di kampus ITB-Stikom Ambon
 - Membeli motor impian
